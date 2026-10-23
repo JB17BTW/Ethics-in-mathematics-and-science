@@ -1,5 +1,5 @@
-# Ethics in Mathematics
-This series of seminars aims to question the role and responsibility of mathematics in the current crises humanity is currently facing. The frequency of the seminars is still unclear at this date.
+# Ethics in Mathematics and Science
+This series of seminars aims to question the role and responsibility of mathematics and science in the current crises humanity is currently facing. The frequency of the seminars is still unclear at this date.
 
 At each seminar, at least one scientist, philosopher, historian, economist, etc will have time to develop their point of view. To do so, the seminars will be composed of one part of discussion between the organizer (Jean-Baptiste Cadart) and the speaker, and a second part of question-answer with the assembly.
 
