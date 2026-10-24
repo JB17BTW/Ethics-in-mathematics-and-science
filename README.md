@@ -1,7 +1,7 @@
 # Ethics in Mathematics and Science
 This series of seminars aims to question the role and responsibility of mathematics and science in the current crises humanity is facing. The frequency of the seminars is still unclear at this date.
 
-At each seminar, at least one scientist, philosopher, historian, economist, etc will have time to develop their point of view. To do so, the seminars will be composed of one part of discussion between the organizer (<a href="https://jb17btw.github.io/">Jean-Baptiste Cadart<a/>) and the speaker, and a second part of question-answer with the assembly.
+At each seminar, at least one scientist, philosopher, historian, economist, etc will have time to develop their point of view. To do so, the seminars will be composed of one part of discussion between the organizer (<a href="https://jeanbaptistecadart.github.io/">Jean-Baptiste Cadart<a/>) and the speaker, and a second part of question-answer with the assembly.
 
 If you are interested to be in the mailing list to get information about the coming events, please contact jean-baptiste.cadart@proton.me
 
